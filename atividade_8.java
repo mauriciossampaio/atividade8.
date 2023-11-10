@@ -1,5 +1,3 @@
-Bash
-mvn archetype:generate -DgroupId=com.example -DartifactId=meuprojeto -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 Java
 package com.example;
 
